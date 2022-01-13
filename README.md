@@ -1,2 +1,2 @@
-# D-mineur
+# Demineur
 Démineur Projet
