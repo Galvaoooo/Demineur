@@ -1,0 +1,7 @@
+H:\Informatique\Demineur\Demineur\bin\Debug\Demineur.exe.config
+H:\Informatique\Demineur\Demineur\bin\Debug\Demineur.exe
+H:\Informatique\Demineur\Demineur\bin\Debug\Demineur.pdb
+H:\Informatique\Demineur\Demineur\obj\Debug\Demineur.csprojAssemblyReference.cache
+H:\Informatique\Demineur\Demineur\obj\Debug\Demineur.csproj.CoreCompileInputs.cache
+H:\Informatique\Demineur\Demineur\obj\Debug\Demineur.exe
+H:\Informatique\Demineur\Demineur\obj\Debug\Demineur.pdb

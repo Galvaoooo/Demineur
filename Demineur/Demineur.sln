@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31112.23
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demineur", "Demineur\Demineur.csproj", "{0DFD147E-8A49-49D1-9136-AA619F4F4062}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demineur", "Demineur\Demineur.csproj", "{654DD5DA-AC40-4B7A-A242-58661B06D871}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0DFD147E-8A49-49D1-9136-AA619F4F4062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0DFD147E-8A49-49D1-9136-AA619F4F4062}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0DFD147E-8A49-49D1-9136-AA619F4F4062}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0DFD147E-8A49-49D1-9136-AA619F4F4062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654DD5DA-AC40-4B7A-A242-58661B06D871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654DD5DA-AC40-4B7A-A242-58661B06D871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654DD5DA-AC40-4B7A-A242-58661B06D871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654DD5DA-AC40-4B7A-A242-58661B06D871}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6E977DDE-BF88-4313-8F30-3D698B992004}
+		SolutionGuid = {1F812027-D7AA-4F7F-B848-68E1A5987EFE}
 	EndGlobalSection
 EndGlobal
